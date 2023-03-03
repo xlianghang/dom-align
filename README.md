@@ -150,3 +150,4 @@ open coverage/ dir
 ## License
 
 dom-align is released under the MIT license.
+
